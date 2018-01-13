@@ -16,6 +16,7 @@
         document.getElementById("btnbuscar").addEventListener('click', BuscarUsuario, false);
         document.getElementById("btnCargar").addEventListener('click', CargarLista, false);
     };
+    /// nuevo cambio
 
     function onPause() {
         // TODO: esta aplicación se ha suspendido. Guarde el estado de la aplicación aquí.
